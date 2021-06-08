@@ -1,9 +1,1 @@
-this is a general vehicle.
-<<<<<<< HEAD
---------------------
--------------
-=======
-can travel on road or offroad.
->>>>>>> car
-it travels from point a to point b.
-it uses petrol/diesel/cng/electricity to run.
+vehicle
