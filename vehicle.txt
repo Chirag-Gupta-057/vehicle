@@ -1,1 +1,1 @@
-vehicle
+this is a vehicle.
