@@ -1,0 +1,4 @@
+this is a car.
+it has 4 wheels
+it has a manual transmission gearbox
+it has 5 seats.
