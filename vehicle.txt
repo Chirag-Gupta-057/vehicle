@@ -1,4 +1,1 @@
-this is a general vehicle.
-can travel on road or offroad.
-it travels from point a to point b.
-it uses petrol/diesel/cng/electricity to run.
+this is a vehicle.
