@@ -1,0 +1,4 @@
+this is a bike
+this has two wheels
+it has manual transmission
+it has two seats.
